@@ -1,15 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://www.example.com/index.html</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>1.0</priority>
-	</url>
-	<url>
-		<loc>https://www.example.com/about.html</loc>
-		<lastmod>2023-01-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kagp-24.ru/</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/service/geodesy.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/service/geology.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/service/laboratory.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/service/maps.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/service/cadastre.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/service/landmanage.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/about.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/services.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kagp-24.ru/index.html</loc>
+  <lastmod>2025-02-08T11:59:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
