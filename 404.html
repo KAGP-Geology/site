@@ -65,6 +65,16 @@
     </template>
 </head>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4HX7SJW0RE"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-4HX7SJW0RE');
+</script>
+
 <body class="d-flex h-100 text-center text-bg-dark">
 
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
@@ -100,8 +110,6 @@
     <script src="assets/js/bundle.min.js"></script>
 
     <!-- #endregion Ссылки на внешний JavaScript файл -->
-    
-
     <!-- Используется на случай если JavaScript отключен в браузере -->
     <noscript>
         <!-- Альтернатива, когда JS отключен -->
